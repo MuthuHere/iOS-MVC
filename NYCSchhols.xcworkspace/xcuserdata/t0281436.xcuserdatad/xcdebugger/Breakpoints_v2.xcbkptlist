@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "43DD33F8-108B-4A19-B931-338CC4C6DC47"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCE2EFDD-52EF-477E-B1D4-A8CC6E3BFD1D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCSchhols/App/Data Layer/Networking/SchoolDirectoryApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getSchoolsUsingAppleStandardApi()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BCE2EFDD-52EF-477E-B1D4-A8CC6E3BFD1D - d67878b17ae2ef8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NYCSchhols.SchoolDirectoryApi.getSchoolsUsingAppleStandardApi() -&gt; ()"
+                  moduleName = "NYCSchhols"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t0281436/Documents/Learning/Udemy/NYCSchhols/NYCSchhols/App/Data%20Layer/Networking/SchoolDirectoryApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "1003">
+               </Location>
+               <Location
+                  uuid = "BCE2EFDD-52EF-477E-B1D4-A8CC6E3BFD1D - da14fd3717ba814e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NYCSchhols.SchoolDirectoryApi.getSchoolsUsingAppleStandardApi() -&gt; ()"
+                  moduleName = "NYCSchhols"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t0281436/Documents/Learning/Udemy/NYCSchhols/NYCSchhols/App/Data%20Layer/Networking/SchoolDirectoryApi.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C119634B-4B10-4B9A-8879-9699EF13413F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCSchhols/App/Data Layer/Networking/SchoolDirectoryApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "getSchoolsUsingAppleStandardApi()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0337E68A-0A42-42F6-B0C7-E60EF79D0EAB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCSchhols/App/Data Layer/Networking/SchoolDirectoryApi.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "getSchoolsUsingAppleStandardApi()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25A36E20-F7F6-4A47-B9C3-73D6846CD2E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCSchhols/App/UI Layer/ViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25A36E20-F7F6-4A47-B9C3-73D6846CD2E2 - 8e3520f3da3b1a0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;NYCSchhols.School&gt;&gt;, NYCSchhols.DataError&gt;) -&gt; () in NYCSchhols.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NYCSchhols"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t0281436/Documents/Learning/Udemy/NYCSchhols/NYCSchhols/App/UI%20Layer/ViewController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "25A36E20-F7F6-4A47-B9C3-73D6846CD2E2 - 8e3520f3da3b1a0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;NYCSchhols.School&gt;&gt;, NYCSchhols.DataError&gt;) -&gt; () in NYCSchhols.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NYCSchhols"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t0281436/Documents/Learning/Udemy/NYCSchhols/NYCSchhols/App/UI%20Layer/ViewController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "189">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D25BCA2-7877-4FE2-A58B-9A0C45A6C507"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCSchhols/App/UI Layer/ViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D78272F-A0F5-45CC-BDFA-416DFD7F0058"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYCSchhols/App/UI Layer/ViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0D78272F-A0F5-45CC-BDFA-416DFD7F0058 - 8e3520f3da3b1aa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;NYCSchhols.School&gt;&gt;, NYCSchhols.DataError&gt;) -&gt; () in NYCSchhols.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NYCSchhols"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t0281436/Documents/Learning/Udemy/NYCSchhols/NYCSchhols/App/UI%20Layer/ViewController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "481">
+               </Location>
+               <Location
+                  uuid = "0D78272F-A0F5-45CC-BDFA-416DFD7F0058 - 8e3520f3da3b1aa3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Optional&lt;Swift.Array&lt;NYCSchhols.School&gt;&gt;, NYCSchhols.DataError&gt;) -&gt; () in NYCSchhols.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "NYCSchhols"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t0281436/Documents/Learning/Udemy/NYCSchhols/NYCSchhols/App/UI%20Layer/ViewController/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "538">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
