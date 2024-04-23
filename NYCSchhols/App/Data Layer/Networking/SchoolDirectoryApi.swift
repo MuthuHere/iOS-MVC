@@ -28,7 +28,7 @@ class SchoolDirectoryApi : SchoolApiLogic {
                 switch response.result {
                 case .failure (let error):
                     completion(.failure(.networkingError(error.localizedDescription)))
-                case .success (let schools):
+                 case .success (let schools):
                     completion(.success(schools))
                 }
             }

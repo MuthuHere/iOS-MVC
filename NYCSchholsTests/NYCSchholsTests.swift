@@ -17,19 +17,24 @@ final class NYCSchholsTests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
 
-    func testExample() throws {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
-        // Any test you write for XCTest can be annotated as throws and async.
-        // Mark your test throws to produce an unexpected failure when your test encounters an uncaught error.
-        // Mark your test async to allow awaiting for asynchronous code to complete. Check the results with assertions afterwards.
-    }
-
-    func testPerformanceExample() throws {
-        // This is an example of a performance test case.
-        self.measure {
-            // Put the code you want to measure the time of here.
-        }
+    func testGettingSchoolsWithEmptyResult() {
+//        let expectedResult = expectation(description: "testing empty mock api")
+//        
+//        let mockApi = MockSchoolApi()
+//        mockApi.loadState = .empty
+//        
+//        let viewModel = SchoolsViewModel(apiService: mockApi)
+//        
+//        viewModel.getSchools { schools, error in
+//            XCTAssertTrue(schools?.isEmpty == true, "expecting school list is empty, but there is some data")
+//            expectedResult.fulfill()
+//        }
+//        
+//        waitForExpectations(timeout: 1.0) {error in
+//            if let error = error {
+//                XCTFail("Expectation Failed")
+//            }
+//        }
     }
 
 }
